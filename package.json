@@ -1,0 +1,22 @@
+{
+  "name": "car3d",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^5.30.0",
+    "@babylonjs/gui": "^6.0.0",
+    "@babylonjs/loaders": "^5.30.0",
+    "stylus": "^0.59.0",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.1.0"
+  }
+}
