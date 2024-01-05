@@ -1,7 +1,8 @@
 <script setup>
 // import HellowWorld from './components/HelloWorld.vue'
-import openCar from './views/babylon/openCar.vue'
-// import openCar from './views/babylon/modelViewer.vue'
+// import openCar from './views/babylon/openCar.vue'
+// import openCar from './views/babylon/babylonViewer.vue'
+import openCar from './views/modelViewer/car.vue'
 </script>
 
 <template>
